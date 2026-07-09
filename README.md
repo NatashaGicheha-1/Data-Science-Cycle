@@ -16,8 +16,13 @@ To understand stages a Data Scientist goes through when solving real world probl
     * Duplicate rows - drop duplicates if they are very little in your dataset
     * Outliers/Extreme values - use IQR Method(more accurate), use boxplot(to see outliers as dots above whiskers) and winorisation/capping
       
-## 5.Exploratory Data Analysis
-* Summary of dataset
+## 5.Exploratory Data Analysis (EDA)
+* Understanding the dataset.
+* Checking the quality of the dataset.
+* Summary of the dataset: Mean, Mode, Median, Standard deviation...
+* Creating visualizations using numerical variables - Histogram and Boxplot
+* Creating visualizations using categorical Variables -Bar chart and Pie chart
+* Detecting outliers using boxplots and IQR Method
   
 ## 6.Model Building
 ### Types of Modeling
